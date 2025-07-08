@@ -1,5 +1,5 @@
-# ¡Hola! Soy [Adrian] 👋
-Soy un desarrollador de software apasionado por [Desarrollo web, Inteligencia Artificial, Desarrollo Movil].
+# ¡Hola! Soy Adrian 👋
+Soy un desarrollador de software apasionado por Desarrollo web, Inteligencia Artificial, Desarrollo Movil.
 
 ## 👨‍💻 Sobre Mí
 Actualmente soy freelancer y trabajo en proyectos personales. Me encanta resolver problemas complejos y aprender nuevas tecnologías.
